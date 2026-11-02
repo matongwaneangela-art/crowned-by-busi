@@ -4,8 +4,8 @@ A responsive website for **Crowned by Busi**, a Randburg-based hair boutique sel
 
 **Module:** WEDE5020 (Web Development, Introduction)
 **Student:** [MATONGWANE LUFUNO ANGELA ST10513622]
-**GitHub repository:** []
-**Live site:** [Add your Netlify or GitHub Pages link here]
+**GitHub repository:** [maongwaneangela-art]
+**Live site:** [https://github.com/matongwaneangela-art/crowned-by-busi]
 
 ---
 
