@@ -3,8 +3,8 @@
 A responsive website for **Crowned by Busi**, a Randburg-based hair boutique selling modern, affordable weaves, wigs, closures and accessories.
 
 **Module:** WEDE5020 (Web Development, Introduction)
-**Student:** [Your name and student number]
-**GitHub repository:** [Add your repository link here]
+**Student:** [MATONGWANE LUFUNO ANGELA ST10513622]
+**GitHub repository:** []
 **Live site:** [Add your Netlify or GitHub Pages link here]
 
 ---
