@@ -1,0 +1,12 @@
+# Security + caching headers. Netlify reads this file automatically.
+# (GitHub Pages ignores it; the pages also carry an equivalent Content-Security-Policy <meta> tag.)
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(self)
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://unpkg.com; style-src 'self' https://fonts.googleapis.com https://unpkg.com; font-src https://fonts.gstatic.com; img-src 'self' https://tile.openstreetmap.org https://unpkg.com; connect-src 'self' https://formspree.io; object-src 'none'; base-uri 'self'; form-action 'self' https://formspree.io; frame-ancestors 'none'
+
+/images/*
+  Cache-Control: public, max-age=604800

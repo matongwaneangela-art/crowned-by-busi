@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Crowned by Busi crown logo">
+  <rect width="64" height="64" rx="14" fill="#5C2A72"/>
+  <g transform="translate(8 9) scale(0.96)" fill="#E75480">
+    <path d="M6 34 L2 14 L14 22 L24 8 L34 22 L46 14 L42 34 Z"/>
+    <rect x="6" y="36" width="36" height="5" rx="1.5"/>
+  </g>
+</svg>
